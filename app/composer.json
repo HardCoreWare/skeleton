@@ -1,8 +1,10 @@
 {
     "require": {
+
         "slim/slim": "^3.12",
         "google/cloud": "^0.101.0",
         "catfan/medoo": "^1.6"
+        
     },
     "autoload": {
 
