@@ -1,0 +1,23 @@
+{
+    "database":{
+
+        "database_type":"mysql",
+        "database_name":"BALANZA",
+        "server":"localhost",
+        "username":"root",
+        "password":""
+        
+    },
+    "app":{
+
+        "url":"http://localhost/skeleton/public",
+        "name":"skeleton"
+
+    },
+    "google":{
+
+        "projectId":"informe-211921"
+
+    }
+
+}
